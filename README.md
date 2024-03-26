@@ -38,10 +38,10 @@ The dataset includes the following columns:
 ## Project Structure
 - `Amazon_Data_Analysis.sql`: SQL script containing the data analysis queries
 - `README.md`: Readme file providing an overview of the project
-- `data`: Folder containing the Amazon dataset (not included in this example)
+- `data`: Folder containing the Amazon dataset 
 
 ## Usage
-1. Connect to your SQL database management system.
+1. Connect to your MYSQL workbench.
 2. Execute the queries in the `Amazon_Data_Analysis.sql` script to perform the data analysis.
 3. Review the results to extract insights into product performance, sales trends, and customer behavior.
 4. Modify the queries as needed to customize the analysis or add new features.
