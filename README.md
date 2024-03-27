@@ -36,9 +36,9 @@ The dataset includes the following columns:
 - SQL
 
 ## Project Structure
-- `Amazon_Data_Analysis.sql`: SQL script containing the data analysis queries
+- `amazon_data.sql`: SQL script containing the data analysis queries
 - `README.md`: Readme file providing an overview of the project
-- `data`: Folder containing the Amazon dataset 
+- `amazon.csv`: Folder containing the Amazon dataset 
 
 ## Usage
 1. Connect to your MYSQL workbench.
