@@ -109,6 +109,14 @@ The Amazon data analysis project provides valuable insights into product perform
 ## Acknowledgements
 This project was completed as part of [Your Name]'s data analysis portfolio.
 
+## Project Links
+
+Youtube: https: //youtu.be/bJQO1k6gcwg
+
+LinkedIn Post: https://www.linkedin.com/posts/rajulgupta024_dataanalysis-amazon-businessinsights-activity-7183849291789066241-xQka?utm_source=share&utm_medium=member_desktop
+
+## Personal Links
+
 Linkedin Link: https://www.linkedin.com/in/rajulgupta024/
 
 GitHub Link: https://github.com/rajulgupta024
