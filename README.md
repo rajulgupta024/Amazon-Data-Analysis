@@ -3,6 +3,11 @@
 ## Overview
 This project entails a comprehensive analysis of the Amazon dataset using SQL queries to extract insights into product performance, sales trends, and customer behavior. The analysis aims to provide valuable insights to drive business decisions and optimize strategies for revenue growth and customer satisfaction.
 
+## Amazon Data Analysis - Ecommerce	Nov, 2023
+[MySQL]| Link
+•	Analyzed 10,000+ data points from Amazon to extract actionable insights, enabling 20% increase in sales showcased Insights on 28 ad-hoc business requests to the executive management team, querying the database using SQL.
+•	Insights from the presentation potentially reduced overall operational costs by approximately 15 % 
+
 ## Key Features
 - Identification of top-performing product lines
 - Analysis of sales trends over time
