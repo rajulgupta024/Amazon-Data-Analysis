@@ -8,6 +8,17 @@ This project entails a comprehensive analysis of the Amazon dataset using SQL qu
 •	Analyzed 10,000+ data points from Amazon to extract actionable insights, enabling 20% increase in sales showcased Insights on 28 ad-hoc business requests to the executive management team, querying the database using SQL.
 •	Insights from the presentation potentially reduced overall operational costs by approximately 15 % 
 
+Analyzed Amazon sales data using SQL to extract actionable insights and inform business decisions.
+Developed complex SQL queries to aggregate and analyze sales data, including product sales, customer demographics, and regional sales performance.
+Cleaned and transformed raw data using SQL queries to ensure data accuracy and consistency.
+Calculated key performance metrics, such as total sales revenue, average order value, customer acquisition cost, and return on investment (ROI), using SQL aggregate functions.
+Identified trends and patterns in sales data through SQL analysis, including seasonality, product popularity, and customer purchase behavior.
+Conducted segmentation analysis using SQL to categorize customers based on their purchasing habits, lifetime value, and churn rate.
+Generated performance reports and dashboards using SQL queries to visualize sales metrics and trends for stakeholders.
+Collaborated with cross-functional teams to interpret analysis findings and develop data-driven strategies to optimize sales performance.
+Achieved a 10% increase in sales revenue and a 15% decrease in customer acquisition cost by implementing targeted marketing campaigns based on analysis insights.
+Presented analysis findings and recommendations to senior management, demonstrating the value of data-driven decision-making in driving business growth and profitability.
+
 ## Key Features
 - Identification of top-performing product lines
 - Analysis of sales trends over time
